@@ -6,8 +6,9 @@ Currently i'm excited to learning React Native and vue
 ---
 
 ### 🚀 Tech Stack
-**Frontend:** Html5, Css3, TailwindCSS, Livewire, React  
+**Frontend:** Html5, Css3, TailwindCSS, JavaScript, React
 **Backend:** Laravel, Express.js  
+**Fullstack:** LiveWire
 **Mobile:** React Native  
 **Database:** MySQL, PostgreSQL  
 **Tools:** Git
