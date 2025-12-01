@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I’m Huzhain 👋
 
-<!--
-**fadli1003/fadli1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Web Developer who loves building modern, fast, and scalable applications.  
+Focused on clean architecture, reusable components, and smooth user experience.
+Currently i'm excited to learning React Native and vue
+---
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+**Frontend:** Html5, Css3, TailwindCSS, Livewire, React  
+**Backend:** Laravel, Express.js  
+**Mobile:** React Native  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 What I Work On
+- Full-stack website & application development  
+- API architecture & integration  
+- UI/UX performance optimization  
+- Automation & clean code
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?fadli1003=fadli1003&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fadli1003=fadli1003&layout=compact)
+
+---
+
+### 📫 Connect
+Email: **huzhain@email.com**  
+Open for collaboration and open-source contributions!
+
