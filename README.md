@@ -22,12 +22,6 @@ Currently i'm excited to learning React Native and vue
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?fadli1003=fadli1003&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fadli1003=fadli1003&layout=compact)
-
----
-
 ### 📫 Connect
 Email: **huzhain@email.com**  
 Open for collaboration and open-source contributions!
