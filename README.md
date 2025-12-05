@@ -2,7 +2,7 @@
 
 I’m a Web Developer who loves building modern, fast, and scalable applications.  
 Focused on clean architecture, reusable components, and smooth user experience.
-Currently i'm excited to learning React Native and vue
+Currently i'm excited to learning ReactJs and VueJs.
 ---
 
 ### 🚀 Tech Stack
