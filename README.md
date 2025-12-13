@@ -6,12 +6,10 @@ Currently i'm excited to learning ReactJs and VueJs.
 ---
 
 ### 🚀 Tech Stack
-**Frontend:** Html5, Css3, TailwindCSS, JavaScript, React
-**Backend:** Laravel, Express.js  
-**Fullstack:** LiveWire
-**Mobile:** React Native  
+**Frontend:** Html5, Css3, TailwindCSS, JavaScript, React.js, Vue.js    
+**Backend:** laravel, express.js  
+**Fullstack:** laravel, livewire, next.js
 **Database:** MySQL, PostgreSQL  
-**Tools:** Git
 
 ---
 
